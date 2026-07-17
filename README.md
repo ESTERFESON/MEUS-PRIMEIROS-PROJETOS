@@ -1,19 +1,19 @@
-# 🎮 Meu Projeto no Scratch
+# 🎮 Meus Primeiros Projetos
 
-Este repositório foi criado especialmente para guardar e compartilhar o meu projeto desenvolvido na plataforma **Scratch**!
+Este repositório foi criado para armazenar e organizar todos os projetos iniciais, protótipos e criações amadoras que desenvolverei ao longo do meu curso!
 
-## 🚀 Como Jogar e Ver o Projeto
-O GitHub armazena o arquivo de código fonte (`.sb3`), mas não consegue rodar o jogo direto pelo navegador. Para jogar a versão interativa completa, você pode usar o site oficial.
+## 🚀 Projetos Salvos Aqui:
+1. **Sem título 3.sb3** — Meu primeiro mini projeto desenvolvido no Scratch.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias e Ferramentas Exploradas
 - **Scratch**: Plataforma de desenvolvimento visual com programação em blocos.
-- **GitHub**: Ferramenta utilizada para hospedagem e salvamento seguro do arquivo do projeto.
+- **GitHub**: Ferramenta utilizada para hospedagem, salvamento seguro e histórico de evolução dos meus códigos.
 
-## 📝 Como abrir este projeto no seu Scratch
-Caso queira baixar o arquivo para abrir e ver os blocos de comando no seu computador:
-1. Faça o download do arquivo `Sem título 3.sb3` que está aqui no repositório.
+## 📝 Como importar arquivos do Scratch (.sb3) de volta para a plataforma
+Caso queira baixar e abrir qualquer arquivo de Scratch guardado aqui:
+1. Clique no arquivo desejado nesta página e faça o download.
 2. Acesse o site oficial do [Scratch](https://mit.edu).
 3. No menu superior, clique em **Criar**.
 4. Vá em **Arquivo** -> **Carregar do seu computador** e selecione o arquivo baixado.
